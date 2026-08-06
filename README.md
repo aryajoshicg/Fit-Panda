@@ -8,7 +8,6 @@ A one-solution platform for all your health related concerns. From managing your
 
 # Facilities
 <h4 align="left">1. Infinite health tips.</h4>
-<h5 align="left">2. specialized doctors on 24/7 help.</h5>
 
 <p align="left">
 </p>
