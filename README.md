@@ -7,9 +7,10 @@ A one-solution platform for all your health related concerns. From managing your
 </p>
 
 # Facilities
-<h4 align="left">1. Infinite health tips
+<h4 align="left">
+ <ol> 1. Infinite health tips
   2. On call specialized experts
   3. Free 3 months trial</h4>
-
+ </ol>
 <p align="left">
 </p>
