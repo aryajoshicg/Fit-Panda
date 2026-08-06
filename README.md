@@ -16,7 +16,7 @@ A one-solution platform for all your health related concerns. From managing your
   
   4. Free 3 months trial</h4>
 
-   ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyLy8l0Qf0WL3VLouBV197S5Ae6vhn_eRr7GOHu1RqyPa6UmFWANijZ8I0&s=10)
+   
 
 
 
