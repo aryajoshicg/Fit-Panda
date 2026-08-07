@@ -22,4 +22,5 @@ A one-solution platform for all your health related concerns. From managing your
 
 <p align="left">
 </p>
-center
+center panda cozy
+
